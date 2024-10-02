@@ -1,0 +1,8 @@
+.box {
+  width: 200px; /* Content-ის სიგრძე */
+  height: 100px; /* Content-ის სიმაღლე */
+  background-color: lightblue; /* Content-ის ფერი */
+  padding: 20px; /* Padding */
+  border: 5px solid darkblue; /* Border */
+  margin: 30px; /* Margin */
+}
